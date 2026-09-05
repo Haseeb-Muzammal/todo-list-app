@@ -30,7 +30,6 @@
 
 📸 **Preview**
 
-Add a screenshot of your project here.
 
 👨‍💻 **Author**
 
